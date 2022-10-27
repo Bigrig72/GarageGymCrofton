@@ -92,7 +92,7 @@ const ResponsiveAppBar = () => {
                     borderRadius: "5px",
                   }}
                 >
-                  GYM
+                  GYM Test
                 </span>
               </Typography>
 
